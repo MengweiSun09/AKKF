@@ -23,4 +23,4 @@ This project demonstrates the application of the **Adaptive Kernel Kalman Filter
 **Additional Resources**
 
 > - For theoretical background on the AKKF, please refer to the paper "Adaptive Kernel Kalman Filter" in _IEEE Transactions on Signal Processing_, [https://ieeexplore.ieee.org/abstract/document/10064092](url)
-> - The corresponding Python implementation of the AKKF is available on the Stone Soup Platform: [https://stonesoup.readthedocs.io/en/v1.4/auto_tutorials/filters/AKKF.html#sphx-glr-auto-tutorials-filters-akkf-py](url). 
+> - The corresponding Python implementation of the AKKF is available on the Stone Soup Platform: https://stonesoup.readthedocs.io/en/v1.4/auto_tutorials/filters/AKKF.html#sphx-glr-auto-tutorials-filters-akkf-py.
